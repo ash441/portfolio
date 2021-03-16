@@ -1,0 +1,14 @@
+
+html,body {
+    margin:0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+/* CSS variables */
+
+:root{
+
+    --primary-color:white;
+}
